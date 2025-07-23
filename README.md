@@ -20,3 +20,19 @@ Click [here](JakubCwieka_CV.pdf) to see my CV.
 # Projects 
 
 ### [Employee Attrition Analysis and Prediction](https://github.com/jakubcwieka/Employee-Attrition-Analysis-and-Prediction/tree/main) 
+
+This analysis aims to understand employee attrition patterns and build a model that will predict such occurences with high sensitivity. 
+
+To achieve this goal, I conduct:
+- **Data Preparation:**
+dealing with missing values, omitting redundant variables, setting appropriate measurement levels
+- **Exploratory Data Analysis:** inspecting possible reliationships via graphs, multivariate plots, correlations, descriptive statistics
+- **Conditional Random Forest:** prediction of employee attrition usiing *cforest* package
+- **Extreme Gradient Boost Classification Tree:** grid-search for optimal hyperparameters using *caret* package, 5-fold cross-validation, hyperparametrs tuning
+- **Logistic Regression:** based on the knowledge acquired in previous steps, I fit a logistic regression model that reflects the characteristics of the observed attrition patterns.
+
+Models were evaluated using AUC, AUC PR, confusion matrix, classification errors, cross-validation and variable importance. 
+
+The analysis was made in R, and the final report assembled in LaTeX. 
+
+
