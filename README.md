@@ -19,4 +19,4 @@ Click [here](JakubCwieka_CV.pdf) to see my CV.
 
 # Projects 
 
-### [Employee Attrition Analysis and Prediction](Employee-Attrition-Analysis-and-Prediction.md) 
+### [Employee Attrition Analysis and Prediction](https://github.com/jakubcwieka/Employee-Attrition-Analysis-and-Prediction/tree/main) 
