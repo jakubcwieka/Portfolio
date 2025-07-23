@@ -16,3 +16,7 @@ I mostly work in R and STATA, though I'm also familiar with MS Power BI and SQL 
 ## Curriculum Vitae 
 
 Click [here](JakubCwieka_CV.pdf) to see my CV. 
+
+# Projects 
+
+### [Employee Attrition Analysis and Prediction](Employee-Attrition-Analysis-and-Prediction.md) 
